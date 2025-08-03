@@ -58,6 +58,9 @@ This project simulates a realistic my home WiFi network using Cisco Packet Trace
 - Optional internet simulation using cloud & DSL modem
 - Ideal for learning **basic home networking** principles
 
+## 📁 Files Included
+
+- `My_Wifi_Network.pkt` – Packet Tracer project file
 
 
 ## 📌 Purpose
